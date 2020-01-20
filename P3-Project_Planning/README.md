@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+
+https://github.com/SimranPannu/liftoff-assignments/blob/master/P3-Project_Planning/Home_Top1.png
+https://github.com/SimranPannu/liftoff-assignments/blob/master/P3-Project_Planning/Home_Middle2.png
+https://github.com/SimranPannu/liftoff-assignments/blob/master/P3-Project_Planning/Home_Bottom3.png
 
 ### Project Tracker
+https://trello.com/b/VYDzNCP1/liftoff-project
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+https://github.com/datashots/vaxrecords
